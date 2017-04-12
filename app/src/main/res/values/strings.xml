@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smart Hygiene Monitor</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="plot_temperature">Temperature</string>
+    <string name="plot_humidity">Humidity</string>
+    <string name="plot_ozone">Ozone</string>
+    <string name="plot_co2">CO2</string>
+    <string name="plot_nox">NOx</string>
+    <string name="plot_so2">SO2</string>
+    <string name="plot_pm10">PM10</string>
+    <string name="plot_pm2">PM2.5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

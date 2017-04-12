@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="channel_id_central_library">34247</integer>
+    <integer name="channel_id_ee">82655</integer>
+    <integer name="channel_id_tsg">159895</integer>
+    <integer name="channel_id_nehru_musium">64519</integer>
+    <integer name="channel_id_dummy">82655</integer>
+</resources>
